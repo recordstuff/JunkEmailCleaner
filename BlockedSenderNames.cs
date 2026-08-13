@@ -1,0 +1,44 @@
+namespace JunkEmailCleaner;
+
+internal static class BlockedSenderNames
+{
+    // Matches are case-insensitive substrings of the sender display name shown by Outlook.
+    internal static readonly string[] Values =
+    [
+        "LendingForAllCredit",
+        "ColonialPenn",
+        "Optima - Tax",
+        "Tennis Channel",
+        "Liberty Mutual",
+        "Ethos Life",
+        "NorthStar-Loans.com",
+        "eHarmony",
+        "Brinks Home",
+        "Vivint Smart Home",
+        "Debt Relief",
+        "EasyCanvasPrints",
+        "WarbyParker.com",
+        "the Milestone Card",
+        "ShopMiracleBrand",
+        "BrinksHomeOffer.com",
+        "SBLI.com",
+        "House Project Pros",
+        "JacuzziBathRemodelPromo",
+        "CarShield Partner",
+        "Liz Buys Houses",
+        "LaserAway Studio",
+        "LifeLineScreening",
+        "Americor Associate",
+        "HealthCare.com",
+        "ClearChoice Dental",
+        "Cornerstone Law Ad",
+        "Saatva Advertisement",
+        "The PhotoStick",
+        "Keranique",
+        "American Home Shield",
+        "Ethos Coverage",
+        "TRA.com",
+        "Endurance Auto",
+        "BrinksHomeOffer",
+     ];
+}
