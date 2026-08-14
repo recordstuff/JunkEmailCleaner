@@ -48,5 +48,6 @@ internal static class BlockedSenderNames
         "AARP Invitation for You",
         "Optima_Tax_Relief",
         "BrinksHomeOffer",
+        "Liz-Buys-Houses",
      ];
 }
