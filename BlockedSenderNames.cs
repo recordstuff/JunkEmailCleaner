@@ -49,5 +49,6 @@ internal static class BlockedSenderNames
         "Optima_Tax_Relief",
         "BrinksHomeOffer",
         "Liz-Buys-Houses",
+        "EasyCanvasPrints",
      ];
 }
