@@ -50,5 +50,6 @@ internal static class BlockedSenderNames
         "BrinksHomeOffer",
         "Liz-Buys-Houses",
         "EasyCanvasPrints",
+        "AARP Join Opportunity"
      ];
 }
