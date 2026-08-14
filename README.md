@@ -1,6 +1,6 @@
 # Outlook Junk Email Cleaner
 
-This project was recreated without history to prepare for adding necessary security in the future.
+This project was recreated without history for security reasons.
 
 Outlook moves things to Junk before it runs rules.  My Junk folder is being spammed.  This utility gives me back my Junk folder.  With the bad emails gone, when a job offer or confirm your email or other important email goes to junk, now I can find it again.  Take that, spammer!  Phooey on spammers.
 
