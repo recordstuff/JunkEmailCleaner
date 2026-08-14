@@ -39,6 +39,14 @@ internal static class BlockedSenderNames
         "Ethos Coverage",
         "TRA.com",
         "Endurance Auto",
+        "TheCapitalWallet",
+        "BetterHelp Offer",
+        "Goldco Direct",
+        "Life Line Screening",
+        "BarkBox Team",
+        "YouthAddictionLawsuits.com",
+        "AARP Invitation for You",
+        "Optima_Tax_Relief",
         "BrinksHomeOffer",
      ];
 }
