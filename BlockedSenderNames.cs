@@ -5,8 +5,7 @@ internal static class BlockedSenderNames
     // Matches are case-insensitive substrings of the sender display name shown by Outlook.
     internal static readonly string[] Values =
     [
-        "AARP Invitation for You",
-        "AARP Join Opportunity",
+        "AARP ",
         "American Home Shield",
         "Americor Associate",
         "Bad Credit",
@@ -16,7 +15,7 @@ internal static class BlockedSenderNames
         "Brinks Home",
         "BrinksHomeOffer",
         "CarShield",
-        "ClearChoice Dental",
+        "ClearChoice",
         "ColonialPenn",
         "Cornerstone Law Ad",
         "CreditCard",
@@ -26,8 +25,7 @@ internal static class BlockedSenderNames
         "EasyCanvasPrints",
         "EasyCanvasPrints",
         "eHarmony",
-        "Endurance Auto",
-        "Endurance Warranty",
+        "Endurance",
         "Ethos Coverage",
         "Ethos Life",
         "Fresh_Reviews",
@@ -48,6 +46,7 @@ internal static class BlockedSenderNames
         "Liz.Buys.Houses",
         "Liz-Buys-Houses",
         "Liz_Buys_Houses",
+        "Liz Buys_Houses",
         "loanDepot",
         "Metal Roofing Innovations",
         "Milestone Cashback",
@@ -67,6 +66,7 @@ internal static class BlockedSenderNames
         "ShopMiracleBrand",
         "Tennis Channel",
         "the Milestone Card",
+        "The Destiny",
         "The PhotoStick",
         "TheCapitalWallet",
         "TRA.com",
@@ -77,6 +77,9 @@ internal static class BlockedSenderNames
         "Visible Partner Deal",
         "Vivint",
         "WarbyParker.com",
+        "Warranty",
+        "Wild Seafood",
+        "Your meat",
         "YouthAddictionLawsuits.com",
      ];
 }
